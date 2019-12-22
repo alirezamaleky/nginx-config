@@ -1,6 +1,6 @@
 # Nginx config
 
-A Nginx configuration for Laravel
+A Nginx configuration for PHP projects.
 
 ## Usage
 
