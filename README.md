@@ -4,4 +4,4 @@ A Nginx configuration for PHP projects.
 
 ## Usage
 
-Simply copy default.conf to your nginx configurations path.
+Simply copy default.conf to your nginx `sites-available` path.
